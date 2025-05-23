@@ -124,3 +124,4 @@ Um aplicativo que ensina programação através de um jogo de RPG no estilo *Zel
 1. **Clareza**: Cada seção tem um propósito definido.
 2. **Hierarquia Lógica**: Tópicos gerais → subtópicos específicos.
 3. **Facilidade de Expansão**: Novas ideias podem ser inseridas nos tópicos existentes.
+# gaming
